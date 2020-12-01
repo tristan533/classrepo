@@ -1,0 +1,16 @@
+@charset "utf-8";
+@media screen{
+body {
+    color: #574BA3;
+    background-color: #CEDCF5;
+    border: medium dotted #574BA3;
+    border-radius: 36px;
+    border-spacing: 40px 35px;
+    background-position: 0% 0%;
+    font-family: kaushan-script;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+}
